@@ -1,4 +1,4 @@
-## Welcome to Flo's website
+# Welcome to Flo's website
 
 I am learning how to use Markdowns. 
 
@@ -10,6 +10,7 @@ if (!thisIsTrue){
 }
 ```
 
+## Lists
 I can personalize words in a list:
 - **Candies**
 - _Baloons_
