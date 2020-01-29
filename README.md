@@ -1,6 +1,6 @@
 #### Welcome to Flo's website
 
-I am learning to use Markdowns. 
+I am learning how to use Markdowns. 
 
 I can write code: 
 
