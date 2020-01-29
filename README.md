@@ -11,25 +11,11 @@ if (!thisIsTrue){
 ```
 
 I can personalize words in a list:
-- **Candies;**
--_Baloons;_
--*candles;*
+- **Candies**
+-_Baloons_
+-*candles*
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[The perfect recipe for a birthday](https://www.allrecipes.com/recipes/1523/holidays-and-events/events-and-gatherings/birthday-parties/) and ![Image](https://www.handletheheat.com/best-birthday-cake/)
+[The perfect recipe for a birthday](https://www.allrecipes.com/recipes/1523/holidays-and-events/events-and-gatherings/birthday-parties/) 
 
 
 
