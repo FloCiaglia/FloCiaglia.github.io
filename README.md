@@ -1,6 +1,6 @@
 # Welcome to Flo's website
 
-I creating a personal website with the purpose of learning some React ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+I am creating a personal website with the purpose of learning some React ![Alt Text](https://tenor.com/view/peach-cat-cute-wiggle-ears-wiggling-excited-gif-15289759)
 
 
 
