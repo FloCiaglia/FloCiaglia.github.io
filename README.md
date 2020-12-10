@@ -1,22 +1,10 @@
 # Welcome to Flo's website
 
-I am learning how to use Markdowns. 
+I creating a personal website with the purpose of learning some React ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-I can write code: 
 
-```
-if (!thisIsTrue){
-  System.out.println("This is not true!");
-}
-```
 
-## Lists
-I can personalize words in a list:
-- **Candies**
-- _Baloons_
-- **Candles**
 
-[The perfect recipe for a birthday](https://www.allrecipes.com/recipes/1523/holidays-and-events/events-and-gatherings/birthday-parties/) 
 
 
 
