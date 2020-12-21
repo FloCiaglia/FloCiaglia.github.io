@@ -4,7 +4,7 @@
     "occupation":"student",
     "description":"I am a student majoring in computer science and minoring in applied mathematics at Boise State University",
     "image":"profilepic.jpg",
-    "bio":"I am an international student coming from Italy. I work as a research assistant in the ADaPt lab in the computer science department at Boise State University. (I am not sure what else to say) ",
+    "bio":"I am an international student coming from Italy. I work as a research assistant in the ADaPt lab in the computer science department at Boise State University.",
     "email": "flociaglia@u.boisestate.edu",
     "email": "floriana.ciaglia@gmail.com",
     "phone": "(208)-850-7141",
@@ -12,8 +12,8 @@
       "city":"Boise",
       "state":"Idaho"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.FloCiaglia.com",
+    "resumedownload":"https://github.com/FloCiaglia/FloCiaglia.github.io/resume21.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -85,8 +85,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"The Expense Tracker",
+        "category":"A Swift mobile application that tracks your spending habits",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       }
