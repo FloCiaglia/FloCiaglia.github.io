@@ -2,9 +2,9 @@
   "main": {
     "name":"Floriana Ciaglia",
     "occupation":"student",
-    "description":"I am a student majoring in computer science and minoring in applied mathematics at Boise State University",
+    "description":"I am a senior majoring in computer science and minoring in applied mathematics at Boise State University",
     "image":"profilepic.jpg",
-    "bio":"I am an international student coming from Italy. I work as a research assistant in the ADaPt lab in the computer science department at Boise State University.",
+    "bio":"I work as a research assistant in the ADaPt lab in the computer science department at Boise State University. Recently, I have been learning concepts of computer vision and machine learning.",
     "email": "flociaglia@u.boisestate.edu",
     "email": "floriana.ciaglia@gmail.com",
     "phone": "(208)-850-7141",
@@ -49,13 +49,13 @@
         "company":"Boise State University",
         "title":"Research Assistant",
         "years":"February 2019 - Present",
-        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench- marking."
+        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking."
       }
     ],
     "skills":[
       {
         "name":"Java",
-        "level":"75%"
+        "level":"65%"
       },
       {
         "name":"c++",
@@ -67,11 +67,11 @@
       },
       {
         "name":"Python",
-        "level":"50%"
+        "level":"85%"
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"Swift",
