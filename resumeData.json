@@ -94,13 +94,13 @@
       {
         "title":"The Expense Tracker",
         "category":"A Swift mobile application that tracks your spending habits",
-        "image":"expense_logo.jpg",
+        "image":"expense_logo.png",
         "url":"https://github.com/FloCiaglia/ExpenseTracker"
       },
       {
     	"title":"Forest Service",
         "category":"Computer Vision: handwriting recognition model",
-        "image":"forest-service.jpg",
+        "image":"forest-service.png",
         "url":"https://github.com/FloCiaglia/boundingBox/tree/master"
       } 
     ]
