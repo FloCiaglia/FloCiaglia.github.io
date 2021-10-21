@@ -49,7 +49,7 @@
         "company":"Boise State University",
         "title":"Research Assistant",
         "years":"February 2019 - Present",
-        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking.\n Leader of 'Digitizing Historical Forest Service Data' project, where my team has developed a character detection pipeline and used a pre-trained OCR model to map handwritten text in .pdf forms to ASCII characters."  
+        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking.\n\t Leader of 'Digitizing Historical Forest Service Data' project, where my team has developed a character detection pipeline and used a pre-trained OCR model to map handwritten text in .pdf forms to ASCII characters."  
       
       }
     ],
