@@ -1,11 +1,10 @@
 {
   "main": {
     "name":"Floriana Ciaglia",
-    "occupation":"student",
+    "occupation":"Software Engineer",
     "description":"I am a senior majoring in computer science and minoring in applied mathematics at Boise State University",
     "image":"profilepic.jpg",
     "bio":"I work as a research assistant in the ADaPt lab in the computer science department at Boise State University. Recently, I have been learning concepts of computer vision and machine learning.",
-    "email": "flociaglia@u.boisestate.edu",
     "email": "floriana.ciaglia@gmail.com",
     "phone": "(208)-850-7141",
     "address":{ 
@@ -35,53 +34,31 @@
         "school":"Boise State University",
         "degree":"B.S. in Computer Science with Minor in Applied Mathematics",
         "graduated":"May 2022",
-        "description":"Overall GPA: 3.9"
+        "description":"Overall GPA: 3.8"
       }
     ],
     "work":[
+      {
+        "company":"Roboflow Inc.",
+        "title":"Machine Learning Intern",
+        "years":"May 2022 - August 2022",
+        "description":"Lead the implementation and paper writing of the Roboflow 100 (RF100) research proeject. RF100 focused on the creation of a new computer vision benchmark for narrow domain models. "
+      },
+      {
+        "company":"Boise State University",
+        "title":"Research Assistant",
+        "years":"February 2019 - May 2022",
+        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking."
+      },
       {
         "company":"National Center for Atmospheric Research - NCAR",
         "title":"Software Engineer Intern",
         "years":"May 2020 - July 2020",
         "description":"Refactored configuration related code in the ASPEN (Atmospheric Sounding Processing Environment) program with the goal of eliminating technical debt."
-      },
-      {
-        "company":"Boise State University",
-        "title":"Research Assistant",
-        "years":"February 2019 - Present",
-        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking."
       }
-    ],
-    "skills":[
-      {
-        "name":"Java",
-        "level":"65%"
-      },
-      {
-        "name":"c++",
-        "level":"65%"
-      },
-      {
-        "name":"C",
-        "level":"50%"
-      },
-      {
-        "name":"Python",
-        "level":"85%"
-      },
-      {
-        "name":"Git",
-        "level":"75%"
-      },
-      {
-        "name":"Swift",
-        "level":"40%"
-      },
-      {
-        "name":"Shell",
-        "level":"50%"
-      }
+     
     ]
+ 
   },
   "portfolio":{
     "projects": [
