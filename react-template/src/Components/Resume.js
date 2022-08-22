@@ -16,10 +16,11 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      // var skills = this.props.data.skills.map(function(skills){
-      //   var className = 'bar-expand '+skills.name.toLowerCase();
-      //   return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
-      // })
+      var skills = this.props.data.skills.map(function(skills){
+        console.log(skills);
+        var className = 'bar-expand '+skills.name.toLowerCase();
+        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+      })
     }
 
     return (
@@ -51,6 +52,7 @@ class Resume extends Component {
         </div>
     </div>
 
+    
 
 {/* 
       <div className="row skill">
