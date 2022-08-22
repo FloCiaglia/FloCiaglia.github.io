@@ -57,6 +57,36 @@
         "description":"Refactored configuration related code in the ASPEN (Atmospheric Sounding Processing Environment) program with the goal of eliminating technical debt."
       }
      
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"c++",
+        "level":"65%"
+      },
+      {
+        "name":"C",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"Swift",
+        "level":"40%"
+      },
+      {
+        "name":"Shell",
+        "level":"50%"
+      }
     ]
  
   },
