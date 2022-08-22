@@ -1,11 +1,10 @@
 {
   "main": {
     "name":"Floriana Ciaglia",
-    "occupation":"student",
-    "description":"I am a senior majoring in computer science and minoring in applied mathematics at Boise State University",
+    "occupation":"Software Engineer",
+    "description":"I am a newly graduated software engineer soon to start a new advanture at Hewlett Packard Enterprise in beautiful Boise, Idaho.",
     "image":"profilepic.jpg",
-    "bio":"I work as a research assistant in the ADaPt lab in the computer science department at Boise State University. Recently, I have been learning concepts of computer vision and machine learning.",
-    "email": "flociaglia@u.boisestate.edu",
+    "bio":"I spend my working days creating cool things on my computer and my free time outside creating vitamin D for myself.",
     "email": "floriana.ciaglia@gmail.com",
     "phone": "(208)-850-7141",
     "address":{ 
@@ -35,54 +34,31 @@
         "school":"Boise State University",
         "degree":"B.S. in Computer Science with Minor in Applied Mathematics",
         "graduated":"May 2022",
-        "description":"Overall GPA: 3.9"
+        "description":"Overall GPA: 3.8"
       }
     ],
     "work":[
+      {
+        "company":"Roboflow Inc.",
+        "title":"Machine Learning Intern",
+        "years":"May 2022 - August 2022",
+        "description":"Lead the implementation and paper writing of the Roboflow 100 (RF100) research proeject. RF100 focused on the creation of a new computer vision benchmark for narrow domain models. "
+      },
+      {
+        "company":"Boise State University",
+        "title":"Research Assistant",
+        "years":"February 2019 - May 2022",
+        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking."
+      },
       {
         "company":"National Center for Atmospheric Research - NCAR",
         "title":"Software Engineer Intern",
         "years":"May 2020 - July 2020",
         "description":"Refactored configuration related code in the ASPEN (Atmospheric Sounding Processing Environment) program with the goal of eliminating technical debt."
-      },
-      {
-        "company":"Boise State University",
-        "title":"Research Assistant",
-        "years":"February 2019 - Present",
-        "description":"Member of the ADaPT data flow optimization lab for research in high performance computing, compiler optimization research and performance bench-marking.\n\t Leader of 'Digitizing Historical Forest Service Data' project, where my team has developed a character detection pipeline and used a pre-trained OCR model to map handwritten text in .pdf forms to ASCII characters."  
-      
       }
-    ],
-    "skills":[
-      {
-        "name":"Java",
-        "level":"65%"
-      },
-      {
-        "name":"c++",
-        "level":"65%"
-      },
-      {
-        "name":"C",
-        "level":"50%"
-      },
-      {
-        "name":"Python",
-        "level":"85%"
-      },
-      {
-        "name":"Git",
-        "level":"75%"
-      },
-      {
-        "name":"Swift",
-        "level":"40%"
-      },
-      {
-        "name":"Shell",
-        "level":"50%"
-      }
+     
     ]
+ 
   },
   "portfolio":{
     "projects": [
@@ -95,14 +71,14 @@
       {
         "title":"The Expense Tracker",
         "category":"A Swift mobile application that tracks your spending habits",
-        "image":"expense_logo.png",
+        "image":"expense_logo.jpg",
         "url":"https://github.com/FloCiaglia/ExpenseTracker"
       },
       {
     	"title":"Forest Service",
         "category":"Computer Vision: handwriting recognition model",
-        "image":"forest-service.png",
-        "url":"https://github.com/BoiseState-AdaptLab/OCR_4_Forest_Service"
+        "image":"forest-service.jpg",
+        "url":"https://github.com/FloCiaglia/boundingBox/tree/master"
       } 
     ]
   }
